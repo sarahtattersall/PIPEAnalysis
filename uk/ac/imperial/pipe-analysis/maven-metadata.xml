@@ -3,10 +3,9 @@
   <groupId>uk.ac.imperial</groupId>
   <artifactId>pipe-analysis</artifactId>
   <versioning>
-    <release>1.1.0</release>
     <versions>
-      <version>1.1.0</version>
+      <version>1.1.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20170504203254</lastUpdated>
+    <lastUpdated>20170504204336</lastUpdated>
   </versioning>
 </metadata>
